@@ -6,7 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #dify
 langgenius/dify-api:0.6.13
-langgenius/dify-api:0.6.13
 langgenius/dify-web:0.6.13
 postgres:15-alpine
 redis:6-alpine
